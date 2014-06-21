@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadifyWeb", "UploadifyWeb\UploadifyWeb.csproj", "{C0613A6B-AC25-4E68-95D5-96F5356E5F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadifyMVC", "UploadifyMVC\UploadifyMVC.csproj", "{17358BA3-FF20-422C-AB9D-BF672A66C0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0613A6B-AC25-4E68-95D5-96F5356E5F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0613A6B-AC25-4E68-95D5-96F5356E5F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0613A6B-AC25-4E68-95D5-96F5356E5F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0613A6B-AC25-4E68-95D5-96F5356E5F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17358BA3-FF20-422C-AB9D-BF672A66C0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17358BA3-FF20-422C-AB9D-BF672A66C0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17358BA3-FF20-422C-AB9D-BF672A66C0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17358BA3-FF20-422C-AB9D-BF672A66C0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
